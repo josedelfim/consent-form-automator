@@ -1,0 +1,26 @@
+{
+  "Termo de responsabilidade": {
+    "marcadores": [
+      "Pelo presente termo particular de responsabilidade"
+    ],
+    "foto": [
+      0.815,
+      0.02,
+      0.155,
+      0.105
+    ]
+  },
+  "Termo com clausulas": {
+    "marcadores": [
+      "Pelo presente instrumento",
+      "CLAUSULA PRIMEIRA",
+      "CEDENTE"
+    ],
+    "foto": [
+      0.85,
+      0.004,
+      0.13,
+      0.075
+    ]
+  }
+}

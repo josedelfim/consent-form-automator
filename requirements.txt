@@ -1,0 +1,11 @@
+pymupdf
+numpy
+pillow
+opencv-python-headless
+faster-whisper
+av
+requests
+gdown
+pyobjc-framework-Vision ; sys_platform == "darwin"
+pyobjc-framework-Speech ; sys_platform == "darwin"
+pyobjc-framework-AVFoundation ; sys_platform == "darwin"
